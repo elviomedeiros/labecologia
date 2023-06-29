@@ -1,0 +1,10 @@
+---
+title: "Futuras publicações"
+editor: source
+---
+
+Artigos sendo escritos:
+
+-   Environmental predictors of fish assemblage composition in dryland aquatic systems [Manuscrito](https://rpubs.com/elviomedeiros)
+
+-   Zooplankton as indicator of conservation unit effectiveness [Manuscrito](https://rpubs.com/elviomedeiros)

@@ -1,0 +1,31 @@
+---
+title: "Laboratório de Ecologia"
+subtitle: "Campus V - UEPB"
+image: _logo7gersa.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+  - text: E-mail
+    icon: envelope
+    href: mailto:elviomedeiros@servidor.uepb.edu.br
+  - text: DGP CNPq
+    icon: bank
+    href: http://dgp.cnpq.br/dgp/espelhogrupo/28119
+  - text: Ecologia Numérica
+    icon: bar-chart-line-fill
+    href: https://elviomedeiros.quarto.pub
+  - text: Manuscritos
+    icon: layers
+    href: https://elviomedeiros.quarto.pub
+---
+
+# Apresentação
+
+Os rios do trópico semiárido são importantes elementos na dinâmica da paisagem que compõe a Caatinga no nordeste Brasileiro. Estes rios existem na maior parte do tempo como cursos de água secos, com séries de poças temporárias e semipermanentes espalhadas no seu leito.
+
+Nesse contexto, foi criado o **Grupo de estudos e pesquisas sobre a Ecologia de Rios do Semiárido** ([GERSA](http://dgp.cnpq.br/dgp/espelhogrupo/28119)), com o objetivo de estudar a estrutura e o funcionamento desses sistemas e avaliar sua importância para a manutenção da biodiversidade aquática do semiárido Brasileiro (@fig-abrangencia_sa).
+
+![Abrangência do clima semiárido no nordeste Brasileiro e áreas de atuação do Grupo de Ecologia de Rios do Semiárido](abrangencia_sa.png){#fig-abrangencia_sa fig-align="center" width="459"}
+

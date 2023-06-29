@@ -5,5 +5,124 @@
     "title": "Laboratório de Ecologia",
     "section": "",
     "text": "Apresentação\nO Laboratório de Ecologia do Campus V da UEPB existe desde 2015 e atua em pesquisas nas áreas de ecologia aquática e terrestre. Além de ser a base para o Grupo de estudos e pesquisas sobre a Ecologia de Rios do Semiárido (GERSA).\nO LabEco também apoia as disciplinas de Ecologia de Comunidades e Ecologia Numérica do Curso de Bacharelado em Ciências Biológicas da UEPB."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre este site",
+    "section": "",
+    "text": "Este é um site experimental do Grupo de Ecologia de Ros do Semiárido. A finalidade aqui é puramente didatica, por isso vale destacar que qualquer erro ou problema relacionado ao site pode ser reportado ao responsável. É fundamental que os usuários do site compreendam que plágio e outras formas de má conduta acadêmica são inaceitáveis e podem ter sérias consequências. O responsável pelo site se compromete a remover qualquer conteúdo ofensivo ou sem a devida fonte consultada, que possa ter sido publicado erroneamente ou por engano."
+  },
+  {
+    "objectID": "content/about.html",
+    "href": "content/about.html",
+    "title": "Sobre este site",
+    "section": "",
+    "text": "Este é um site experimental do grupo de estudos e pesquisas em Ecologia de Rios do Semiárido (GERSA), que é vinculado ao Laboratório de Ecologia do campus V da Universidade Estadual da Paraíba.\nO site é uma plataforma criada com o objetivo de apresentar este grupo de estudos e pesquisas, ao mesmo tempo explorando diferentes conceitos e técnicas utilizados na análise de dados em Ecologia, associados a disciplina de Ecologia Numérica do Curso de Bacharelado em Ciências Biológicas da UEPB.\nÉ importante destacar que os exemplos apresentados no site podem conter imprecisões ou códigos demasiado extensos (aparentemente desnecessários para um ecólogo e programador de R mais experiente), mas isso é proposital, pois a finalidade é oferecer um material didático para os alunos, que possa facilitar a compreensão dos conceitos abordados nas aulas e estudos de Ecologia. Dessa forma, o site é uma ferramenta complementar às aulas presenciais e as pesquisas realizadas pelo grupo, buscando fornecer exemplos práticos e didáticos para estudantes de Ecologia.\nComo mencionado, a finalidade é didatica e de apresentar os temas seguindo passo-a-passoa e contextualizando com dados ecológicos reais. Por isso, além das informações sobre o conteúdo do site experimental deste grupo, é importante destacar que qualquer erro ou problema relacionado ao site podem ser reportados ao responsável através do email: elviomedeiros@servidor.uepb.edu.br\nÉ fundamental que os usuários do site compreendam que plágio e outras formas de má conduta acadêmica são inaceitáveis e podem ter sérias consequências. O responsável pelo site se compromete a remover qualquer conteúdo ofensivo ou sem a devida fonte consultada, que possa ter sido publicado erroneamente ou por engano."
+  },
+  {
+    "objectID": "content/basica.html",
+    "href": "content/basica.html",
+    "title": "Tutorial R Módulo 7",
+    "section": "",
+    "text": "Apresentação\nAnálise de Classificação Hierárquica (SAHN) é um método de análise de dados utilizado para identificar grupos ou clusters de objetos com base em sua similaridade. É amplamente utilizada em várias áreas, incluindo bioinformática, análise de dados espaciais, agronomia, entre outros. A análise de classificação hierárquica é uma técnica exploratória importante que pode ajudar a identificar padrões e relações em dados não estruturados. No entanto, é importante lembrar que a interpretação dos resultados pode ser subjetiva e depender do contexto da aplicação.\n\n\nObjetivos\nOs objetivos dessa atividade são,\n\napresentar ao aluno uma avaliação das possíveis decisões a serem tomadas em uma análise de classificação hierárquica, e\ncomparar os possíveis resultados dessas análises.\n\n\n\nMetodologia sugerida\nSe necessário, revise as aulas e material de apoio anteriores. Crie uma estrutura organizada que lhe permita replicar os resultados e passos propostos. Faça sua própria pesquisa sobre os temas tratados. Salve seu script do R, vc pode precisar dele depois.\n\n\nSiga para o tutorial clicando aqui"
+  },
+  {
+    "objectID": "content/comunidades.html",
+    "href": "content/comunidades.html",
+    "title": "Tutorial R Módulo 7",
+    "section": "",
+    "text": "Apresentação\nAnálise de Classificação Hierárquica (SAHN) é um método de análise de dados utilizado para identificar grupos ou clusters de objetos com base em sua similaridade. É amplamente utilizada em várias áreas, incluindo bioinformática, análise de dados espaciais, agronomia, entre outros. A análise de classificação hierárquica é uma técnica exploratória importante que pode ajudar a identificar padrões e relações em dados não estruturados. No entanto, é importante lembrar que a interpretação dos resultados pode ser subjetiva e depender do contexto da aplicação.\n\n\nObjetivos\nOs objetivos dessa atividade são,\n\napresentar ao aluno uma avaliação das possíveis decisões a serem tomadas em uma análise de classificação hierárquica, e\ncomparar os possíveis resultados dessas análises.\n\n\n\nMetodologia sugerida\nSe necessário, revise as aulas e material de apoio anteriores. Crie uma estrutura organizada que lhe permita replicar os resultados e passos propostos. Faça sua própria pesquisa sobre os temas tratados. Salve seu script do R, vc pode precisar dele depois.\n\n\nSiga para o tutorial clicando aqui"
+  },
+  {
+    "objectID": "content/gersa.html",
+    "href": "content/gersa.html",
+    "title": "Grupo de Ecologia de Rios do Semiárido",
+    "section": "",
+    "text": "Apresentação\nOs rios do trópico semiárido são importantes elementos na dinâmica da paisagem que compõe a Caatinga no nordeste Brasileiro. Estes rios existem na maior parte do tempo como cursos de água secos, com séries de poças temporárias e semipermanentes espalhadas no seu leito.\nNesse contexto, foi formado em 2008 o Grupo de estudos e pesquisas sobre a Ecologia de Rios do Semiárido (GERSA), com o objetivo de estudar a estrutura e o funcionamento desses sistemas e avaliar sua importância para a manutenção da biodiversidade aquática do semiárido Brasileiro (Figura 1).\n\n\n\nFigura 1: Abrangência do clima semiárido no nordeste Brasileiro e áreas de atuação do Grupo de Ecologia de Rios do Semiárido\n\n\n\n\nSobre o GERSA\nO Grupo de estudos e pesquisas em Ecologia de Rios do Semiárido, vinculado ao Laboratório de Ecologia do campus V da UEPB, tem o objetivo de estudar a estrutura e o funcionamento de riachos intermitentes e perenes do trópico semiárido brasileiro e avaliar sua importância para a manutenção e conservação da biodiversidade aquática. Pesquisas desenvolvidas por este grupo levarão a um melhor entendimento da estrutura e do funcionamento de rios intermitentes incluindo os trechos que ocorrem no domínio semiárido e no litoral de clima tropical. Informação gerada permitirá que planos de conservação e manejo considerem os processos ecológicos em rios."
+  },
+  {
+    "objectID": "content/habs.html",
+    "href": "content/habs.html",
+    "title": "Tipos de ambiente",
+    "section": "",
+    "text": "Os principais tipos de ambientes de interesse do GERSA são:"
+  },
+  {
+    "objectID": "content/habs.html#rios-temporários",
+    "href": "content/habs.html#rios-temporários",
+    "title": "Tipos de ambiente",
+    "section": "Rios temporários",
+    "text": "Rios temporários"
+  },
+  {
+    "objectID": "content/habs.html#lagoas-temporárias",
+    "href": "content/habs.html#lagoas-temporárias",
+    "title": "Tipos de ambiente",
+    "section": "Lagoas temporárias",
+    "text": "Lagoas temporárias"
+  },
+  {
+    "objectID": "content/habs.html#rock-pools",
+    "href": "content/habs.html#rock-pools",
+    "title": "Tipos de ambiente",
+    "section": "“Rock pools”",
+    "text": "“Rock pools”"
+  },
+  {
+    "objectID": "content/habs.html#fitotelmos",
+    "href": "content/habs.html#fitotelmos",
+    "title": "Tipos de ambiente",
+    "section": "Fitotelmos",
+    "text": "Fitotelmos"
+  },
+  {
+    "objectID": "content/habs.html#poças-de-chuva",
+    "href": "content/habs.html#poças-de-chuva",
+    "title": "Tipos de ambiente",
+    "section": "Poças de chuva",
+    "text": "Poças de chuva"
+  },
+  {
+    "objectID": "content/habs.html#açudes",
+    "href": "content/habs.html#açudes",
+    "title": "Tipos de ambiente",
+    "section": "Açudes",
+    "text": "Açudes"
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Laboratório de Ecologia",
+    "section": "",
+    "text": "Apresentação\nOs rios do trópico semiárido são importantes elementos na dinâmica da paisagem que compõe a Caatinga no nordeste Brasileiro. Estes rios existem na maior parte do tempo como cursos de água secos, com séries de poças temporárias e semipermanentes espalhadas no seu leito.\nNesse contexto, foi criado o Grupo de estudos e pesquisas sobre a Ecologia de Rios do Semiárido (GERSA), com o objetivo de estudar a estrutura e o funcionamento desses sistemas e avaliar sua importância para a manutenção da biodiversidade aquática do semiárido Brasileiro (Figura 1).\n\n\n\nFigura 1: Abrangência do clima semiárido no nordeste Brasileiro e áreas de atuação do Grupo de Ecologia de Rios do Semiárido"
+  },
+  {
+    "objectID": "content/manus.html",
+    "href": "content/manus.html",
+    "title": "Futuras publicações",
+    "section": "",
+    "text": "Artigos sendo escritos:\n\nEnvironmental predictors of fish assemblage composition in dryland aquatic systems Manuscrito\nZooplankton as indicator of conservation unit effectiveness Manuscrito"
+  },
+  {
+    "objectID": "content/numerica.html",
+    "href": "content/numerica.html",
+    "title": "Disciplina de Ecologia Numérica",
+    "section": "",
+    "text": "Apresentação\nEste é um site experimental da disciplina de graduação de Ecologia Numérica do Curso de Ciências Biológicas da Universidade Estadual da Paraíba.\nO site experimental da disciplina de Ecologia Numérica da UEPB é uma plataforma criada com o objetivo de apresentar exemplos didáticos aos alunos, explorando diferentes conceitos e técnicas utilizadas na análise de dados em Ecologia. É importante destacar que os exemplos apresentados no site podem conter imprecisões ou códigos demasiado extensos (aparentemente desnecessários para um ecólogo e programador de R mais experiente), mas isso é proposital, pois a finalidade é oferecer um material didático para os alunos, que possa facilitar a compreensão dos conceitos abordados durante as aulas. Dessa forma, o site é uma ferramenta complementar às aulas presenciais, que busca fornecer exemplos práticos e didáticos para os estudantes de Ecologia Numérica da UEPB.\nComo mencionado, a finalidade é didatica e de apresentar o tema seguindo passo-a-passoa e contextualizando com dados ecológicos reais. Por isso, além das informações sobre o conteúdo do site experimental da disciplina de ecologia numérica da UEPB, é importante destacar que qualquer erro ou problema relacionado ao site pode ser reportado ao responsável através do email:\nÉ fundamental que os usuários do site compreendam que plágio e outras formas de má conduta acadêmica são inaceitáveis e podem ter sérias consequências. O responsável pelo site se compromete a remover qualquer conteúdo ofensivo ou sem a devida fonte consultada, que possa ter sido publicado erroneamente ou por engano."
+  },
+  {
+    "objectID": "content/projs.html",
+    "href": "content/projs.html",
+    "title": "Projetos recentes",
+    "section": "",
+    "text": "Alguns dos projetos desenvolvidos pelo GERSA/Lab. de Ecologia da UEPB, são:\n\n\n\n\n\n\nPrecisando de estagiários. Vagas em aberto: Indicadores da saúde ecológica em riachos de Mata Atlâncitca: Reserva Biológica Guaribas\n\n\n\n\n\n\n\nIniciação Científica\n\n\n\n\n\n\nAvaliação das características morfo- e bio- ecológicas de Hoplias malabaricus (Characiformes: Erythrinidae) em decorrência do desenvolvimento de protuberância dermal associada à respiração aquática superficial\n\n\n\n\n\n\n\n\n\n\n\n\nEstádio de maturação gonadal e conteúdo estomacal de Hoplias malabaricus (Characiformes: Erythrinidae) em condições de hipóxia em uma poça temporária de um rio intermitente\n\n\n\n\n\n\n\n\n\n\n\n\nAvaliação histológica de protuberância dermal associada à respiração aquática superficial em Hoplias malabaricus (Bloch 1974) (Characiformes: Erythrinidae)\n\n\n\n\n\n\n\n\nEm andamento\n\n\n\n\n\n\nDesenvolvimento de protuberância dermal associada à respiração aquática superficial em Hoplias malabaricus (Characiformes: Erythrinidae) em um rio intermitente.\n\n\n\n\n\n\n\n\nFinalizados\n\n\n\n\n\n\n2016 - 2018: Avaliação da saúde ecológica da bacia do rio Paraíba: macroinvertebrados bentônicos como ferramenta.\n\n\n\n\n\n\nDescrição: Os padrões ecológicos de composição e estrutura de comunidades e sua quantificação são frequentemente utilizados como os principais indicadores biológicos da saúde de riachos. Contudo, estes padrões fornecem limitada informação sobre importantes processos ecológicos que ocorrem em ecossistemas ribeirinhos (e.g. padrões gerais de diversidade e estabilidade de comunidades). Atualmente, estudos indicam que o estudo dos processos ecológicos em uma escala mais ampla e de cunho holístico são fundamentais para a determinação da saúde de rios. É proposto no presente projeto que três medidas de indicadores biológicos sejam usadas para se avaliar a saúde do ecossistema. Estas medidas seriam (1) a distribuição geral da diversidade e sua partição entre as escalas espaciais; (2) a dinâmica de colonização ao longo do tempo em segmentos diferentes do rio; e (3) resistência e resiliência das comunidades frente a distúrbios. Macrozoobentos foram usados como ferramenta para estes indicadores biológicos.\nSituação: Concluído; Natureza: Pesquisa.\nAlunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) .\nFinanciador(es): Fundação de Amparo a Pesquisa do Estado da Paraiba. Universidade Estadual da Paraíba. Edital PROPESQ/UEPB-2015.\n\n\n\n\n\n\n2013 - 2016: Estrutura do habitat, composição da fauna e isótopos estáveis como ferramentas na avaliação da saúde ecológica em riachos tropicais.\n\n\n\n\n\n\nDescrição: Os padrões ecológicos de composição e estrutura de comunidades e sua quantificação são freqüentemente utilizados como os principais indicadores biológicos da saúde de riachos. Contudo, estes padrões fornecem limitada informação sobre importantes processos ecológicos que ocorrem em ecossistemas ribeirinhos (e.g. fontes e destino de energia e nutrientes, e dinâmica da cadeia trófica). Atualmente, estudos indicam que o estudo dos processos ecológicos em uma escala mais ampla e de cunho holístico são fundamentais para a determinação da saúde de rios. É proposto no presente projeto que três medidas de indicadores biológicos sejam usadas para se avaliar a saúde do ecossistema. Estas medidas seriam (1) a avaliação da estrutura do habitat disponível para colonizadores; (2) a composição da fauna e suas relações com espécies nativas e introduzidas; e (3) a medição direta da quantidade de carbono orgânico produzido e consumido dentro do sistema e a análise do destino do carbono orgânico produzido na zona ripária e no rio dentro da cadeia trófica aquática, associado ao estudo sobre a composição faunística e estrutura do habitat disponível para consumidores conspícuos (i.e. peixes).\nSituação: Concluído; Natureza: Pesquisa.\nAlunos envolvidos: Graduação: (4) / Mestrado acadêmico: (3) .\nFinanciador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa. Edital Produtividade em Pesquisa-PQ-2012 312028/2012-1."
+  },
+  {
+    "objectID": "content/pubs.html",
+    "href": "content/pubs.html",
+    "title": "Publicações",
+    "section": "",
+    "text": "Algumas publicações importantes:\n\nBet-hedgers commit to the hedge: Zooplankton in ephemeral semiarid wetlands Ecology\nLife finds a way: Hatching dynamics of zooplankton dormant stages Journal of Arid Environments\nEcologia de peixes de riachos intermitentes Oecologia australis\nConservation importance of semi-arid streams in north-eastern Brazil Aquatic Conservation: Mar.Freshw.Ecosyst"
   }
 ]

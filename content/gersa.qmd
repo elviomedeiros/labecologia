@@ -1,0 +1,19 @@
+---
+title: "Grupo de Ecologia de Rios do Semiárido"
+subtitle: "Laboratório de Ecologia - UEPB Campus V"
+page-layout: full
+lang: "pt-br"
+---
+
+# Apresentação
+
+Os rios do trópico semiárido são importantes elementos na dinâmica da paisagem que compõe a Caatinga no nordeste Brasileiro. Estes rios existem na maior parte do tempo como cursos de água secos, com séries de poças temporárias e semipermanentes espalhadas no seu leito.
+
+Nesse contexto, foi formado em 2008 o **Grupo de estudos e pesquisas sobre a Ecologia de Rios do Semiárido** ([GERSA](http://dgp.cnpq.br/dgp/espelhogrupo/28119)), com o objetivo de estudar a estrutura e o funcionamento desses sistemas e avaliar sua importância para a manutenção da biodiversidade aquática do semiárido Brasileiro (@fig-abrangencia_sa).
+
+![Abrangência do clima semiárido no nordeste Brasileiro e áreas de atuação do Grupo de Ecologia de Rios do Semiárido](abrangencia_sa.png){#fig-abrangencia_sa fig-align="center" width="459"}
+
+# Sobre o GERSA
+
+O Grupo de estudos e pesquisas em Ecologia de Rios do Semiárido, vinculado  ao Laboratório de Ecologia do campus V da UEPB, tem o objetivo de estudar a estrutura e o funcionamento de riachos intermitentes e perenes do trópico semiárido brasileiro e avaliar sua importância para a manutenção e conservação da biodiversidade aquática. Pesquisas desenvolvidas por este grupo levarão a um melhor entendimento da estrutura e do funcionamento de rios intermitentes incluindo os trechos que ocorrem no domínio semiárido e no litoral de clima tropical. Informação gerada permitirá que planos de conservação e manejo considerem os processos ecológicos em rios.
+

@@ -9,7 +9,7 @@ website:
 
   page-footer:
     right: "Page built with [Quarto](https://quarto.org/) and [NOAA Quarto Simple Template](https://nmfs-opensci.github.io/NOAA-quarto-simple)"
-    left: "&copy; [CC-1.0](content/LICENSE.txt)"
+    left: "&copy; [CC-1.0](LICENSE.txt)"
 
   sidebar:
     background: "#008080"

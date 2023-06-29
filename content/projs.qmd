@@ -1,0 +1,56 @@
+---
+title: "Projetos recentes"
+editor: source
+---
+
+Alguns dos projetos desenvolvidos pelo GERSA/Lab. de Ecologia da UEPB, são:
+
+::: callout-warning
+## Precisando de estagiários. Vagas em aberto: Indicadores da saúde ecológica em riachos de Mata Atlâncitca: Reserva Biológica Guaribas
+:::
+
+# Iniciação Científica
+
+::: callout-tip
+## Avaliação das características morfo- e bio- ecológicas de *Hoplias malabaricus* (Characiformes: Erythrinidae) em decorrência do desenvolvimento de protuberância dermal associada à respiração aquática superficial
+:::
+
+::: callout-tip
+## Estádio de maturação gonadal e conteúdo estomacal de *Hoplias malabaricus* (Characiformes: Erythrinidae) em condições de hipóxia em uma poça temporária de um rio intermitente
+:::
+
+::: callout-tip
+## Avaliação histológica de protuberância dermal associada à respiração aquática superficial em *Hoplias malabaricus* (Bloch 1974) (Characiformes: Erythrinidae)
+:::
+
+# Em andamento
+
+::: callout-tip
+## Desenvolvimento de protuberância dermal associada à respiração aquática superficial em *Hoplias malabaricus* (Characiformes: Erythrinidae) em um rio intermitente.
+:::
+
+# Finalizados
+
+::: callout-tip
+## 2016 - 2018: Avaliação da saúde ecológica da bacia do rio Paraíba: macroinvertebrados bentônicos como ferramenta.
+:::
+
+Descrição: Os padrões ecológicos de composição e estrutura de comunidades e sua quantificação são frequentemente utilizados como os principais indicadores biológicos da saúde de riachos. Contudo, estes padrões fornecem limitada informação sobre importantes processos ecológicos que ocorrem em ecossistemas ribeirinhos (e.g. padrões gerais de diversidade e estabilidade de comunidades). Atualmente, estudos indicam que o estudo dos processos ecológicos em uma escala mais ampla e de cunho holístico são fundamentais para a determinação da saúde de rios. É proposto no presente projeto que três medidas de indicadores biológicos sejam usadas para se avaliar a saúde do ecossistema. Estas medidas seriam (1) a distribuição geral da diversidade e sua partição entre as escalas espaciais; (2) a dinâmica de colonização ao longo do tempo em segmentos diferentes do rio; e (3) resistência e resiliência das comunidades frente a distúrbios. Macrozoobentos foram usados como ferramenta para estes indicadores biológicos.
+
+Situação: Concluído; Natureza: Pesquisa.
+
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Financiador(es): Fundação de Amparo a Pesquisa do Estado da Paraiba. Universidade Estadual da Paraíba. Edital PROPESQ/UEPB-2015.
+
+::: callout-tip
+## 2013 - 2016: Estrutura do habitat, composição da fauna e isótopos estáveis como ferramentas na avaliação da saúde ecológica em riachos tropicais.
+:::
+
+Descrição: Os padrões ecológicos de composição e estrutura de comunidades e sua quantificação são freqüentemente utilizados como os principais indicadores biológicos da saúde de riachos. Contudo, estes padrões fornecem limitada informação sobre importantes processos ecológicos que ocorrem em ecossistemas ribeirinhos (e.g. fontes e destino de energia e nutrientes, e dinâmica da cadeia trófica). Atualmente, estudos indicam que o estudo dos processos ecológicos em uma escala mais ampla e de cunho holístico são fundamentais para a determinação da saúde de rios. É proposto no presente projeto que três medidas de indicadores biológicos sejam usadas para se avaliar a saúde do ecossistema. Estas medidas seriam (1) a avaliação da estrutura do habitat disponível para colonizadores; (2) a composição da fauna e suas relações com espécies nativas e introduzidas; e (3) a medição direta da quantidade de carbono orgânico produzido e consumido dentro do sistema e a análise do destino do carbono orgânico produzido na zona ripária e no rio dentro da cadeia trófica aquática, associado ao estudo sobre a composição faunística e estrutura do habitat disponível para consumidores conspícuos (i.e. peixes).
+
+Situação: Concluído; Natureza: Pesquisa.
+
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (3) .
+
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa. Edital Produtividade em Pesquisa-PQ-2012 312028/2012-1.
