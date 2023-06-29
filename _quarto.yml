@@ -1,0 +1,69 @@
+project: 
+  type: website
+  output-dir: docs
+editor: source
+
+website: 
+  page-navigation: true
+  title: "Lab Eco" 
+
+  page-footer:
+    right: "Page built with [Quarto](https://quarto.org/) and [NOAA Quarto Simple Template](https://nmfs-opensci.github.io/NOAA-quarto-simple)"
+    left: "&copy; [CC-1.0](content/LICENSE.txt)"
+
+  sidebar:
+    background: "#008080"
+    logo: _logolb2a.png
+    pinned: true
+    align: center
+    tools: 
+      - icon: bank
+        href: http://dgp.cnpq.br/dgp/espelhogrupo/28119
+        text: "GDP CNPq"
+      - icon: envelope
+        href: mailto:elviomedeiros@servidor.uepb.edu.br
+        text: "E-Mail"
+
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Inicio
+      - href: content/gersa.qmd
+        text: GERSA
+        contents: 
+          - href: content/habs.qmd
+            text: "Atuação"
+          - href: content/pubs.qmd
+            text: "Publicações"
+          - href: content/projs.qmd
+            text: "Projetos"
+          - href: content/manus.qmd
+            text: "Manuscritos"
+      - href: 
+        text: Disciplinas
+        contents:
+          - href: https://elviomedeiros.github.io/ecologiabasica/
+            text: "Ecologia Básica"
+          - href: https://elviomedeiros.github.io/ecologiacomunidades/
+            text: "Ecologia de Comunidades"
+          - href: https://elviomedeiros.github.io/ecologianumerica/
+            text: "Ecologia Numérica"
+      - href: about.qmd
+        text: Sobre este site
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] 
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+filters:
+  - include-files.lua
+  - quarto
+
+lang: "pt-br"

@@ -1,0 +1,12 @@
+---
+title: "Laboratório de Ecologia"
+subtitle: "Universidade Estadual da Paraíba - Campus V"
+page-layout: full
+lang: "pt-br"
+editor: source
+---
+# Apresentação
+
+O Laboratório de Ecologia do  Campus V da UEPB existe desde 2015 e atua em pesquisas nas áreas de ecologia aquática e terrestre. Além de ser a base para o Grupo de estudos e pesquisas sobre a Ecologia de Rios do Semiárido ([GERSA](content/gersa.qmd)).
+
+O LabEco  também apoia as disciplinas de [Ecologia de Comunidades](https://elviomedeiros.github.io/ecologiacomunidades) e [Ecologia Numérica](https://elviomedeiros.github.io/ecologianumerica/) do Curso de Bacharelado em Ciências Biológicas da UEPB.
